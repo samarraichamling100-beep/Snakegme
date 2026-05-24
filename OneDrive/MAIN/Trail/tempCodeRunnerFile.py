@@ -1,0 +1,1 @@
+        self.fruit_rect = pygame.Rect(self.XPOS,self.YPOS + 30,100,20)
